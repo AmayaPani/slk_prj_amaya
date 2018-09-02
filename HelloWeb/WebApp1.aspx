@@ -62,7 +62,7 @@
 					
 					<div class="p-t-13 p-b-9">
 						<span class="txt1">
-							Password
+							PassWord
 						</span>
 
 						<a href="#" class="txt2 bo1 m-l-5">
